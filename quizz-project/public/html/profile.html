@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon profil</title>
+  <link rel="stylesheet" href="/public/css/profile.css">
+</head>
+<body>
+  
+<img src="../images/back-arrow.png" alt="Retour" class="back-arrow" onclick="history.back()">
+  <header class="logo-header">
+    <img src="../images/logo.png" alt="Logo BrainZone">
+  </header>
+  <img src="../images/bg-cinema.jpg" alt="cinema" class="bg-left">
+  <img src="../images/bg-jeux.png" alt="jeux vidéo" class="bg-right">
+
+
+  <div class="profile-card">
+    <h1>👤 Mon profil 👤 </h1>
+    <p><strong>Nom d'utilisateur :</strong> <span id="username">...</span></p>
+    <p><strong>🎬 Top Score Films :</strong> <span id="score-films">...</span></p>
+    <p><strong>🎮 Top Score Jeux  :</strong> <span id="score-jeux">...</span></p>
+    <a href="choix.html" class="return-btn">Retour au menu</a>
+  </div>
+
+  <script>
+    fetch('http://localhost:3000/api/profile', {
+  method: 'GET',
+  credentials: 'include'
+})
+  .then(res => {
+    if (!res.ok) throw new Error('Non connecté');
+    return res.json();
+  })
+  .then(data => {
+    document.getElementById('username').textContent = data.username;
+    document.getElementById('score-films').textContent = data.films !== null ? data.films : "Pas encore de score";
+    document.getElementById('score-jeux').textContent = data.jeux !== null ? data.jeux : "Pas encore de score";
+  })
+  .catch(() => {
+    window.location.href = 'login.html';
+  });
+
+
+  function logout() {
+  fetch('/api/logout', {
+    method: 'POST',
+    credentials: 'include' 
+  }).then(() => window.location.href = 'index.html');
+}
+
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Démarrage du Quiz</title>
+  <link rel="stylesheet" href="/public/css/start.css">
+</head>
+<body class="bodyStart">
+  </header>
+ <img src="../images/back-arrow.png" alt="Retour" class="back-arrow" onclick="history.back()">
+ <img src="../images/fleche.png" alt="descendre" class="scroll-arrow" onclick="scrollToTarget()">
+
+
+</a>
+
+<img src="../images/wave.png" alt="vague décorative" class="wave-separator">
+
+  <h1 class="h1start" id="start-title">Chargement...</h1>
+  <a id="start-btn" href="#">
+    <button class="start-btn-jeux">Commencer</button>
+  </a>
+  
+ <div id="scroll-target" >
+  
+</div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const theme = params.get("theme");
+
+    const title = document.getElementById("start-title");
+    const btn = document.getElementById("start-btn");
+
+    if (theme === "jeux") {
+      title.textContent = "🎮 Prêt pour le quiz Jeux Vidéo ? 🎮";
+      btn.href = `quiz.html?theme=jeux`;
+    } else if (theme === "films") {
+      title.textContent = "🎬 Prêt pour le quiz Films ? 🎬";
+      btn.href = `quiz.html?theme=films`;
+    } else {
+      title.textContent = "Thème inconnu.";
+      btn.style.display = "none";
+    }
+
+      function scrollToTarget() {
+    const target = document.getElementById("scroll-target");
+    if (target) {
+      target.scrollIntoView({ behavior: "smooth" });
+    }
+  }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Accueil</title>
+  <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body class="bodyWelcome">
+
+  <header class="logo-header">
+    <img src="../images/logo.png" alt="Logo BrainZone" class="logo-img">
+  </header>
+
+  <h1>🎮 Bienvenue sur le Quiz 🎬</h1>
+  <h2>Choisis ton thème :</h2>
+
+  <div class="buttons">
+    <a href="start.html?theme=jeux"><button class="welcome-btn-jeux">Jeux Vidéo</button></a>
+    <a href="start.html?theme=films"><button class=" welcome-btn-films">Films</button></a>
+  </div>
+
+  <div class="profile-menu">
+    <a href="profile.html" class="profile-link">Mon Profil</a>
+    <a href="leaderboard.html" class="leaderboard"> Classement </a>
+    <button class="logout-btn" onclick="logout()">Déconnexion</button>
+  </div>
+
+  <footer>
+    Propulsé par Théo  © 2025
+  </footer>
+
+  <script>
+    function logout() {
+      fetch('/api/logout', {
+        method: 'POST',
+        credentials: 'include'
+      }).then(() => {
+        window.location.href = 'index.html';
+      });
+    }
+  </script>
+</body>
+</html>

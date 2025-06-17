@@ -1,0 +1,982 @@
+[
+  {
+    "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+    "answers": [
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Martin Scorsese",
+      "David Fincher"
+    ],
+    "correct": "Quentin Tarantino"
+  },
+  {
+    "question": "Dans quel film Leonardo DiCaprio dit-il 'I'm the king of the world!' ?",
+    "answers": [
+      "Titanic",
+      "The Wolf of Wall Street",
+      "Inception",
+      "The Revenant"
+    ],
+    "correct": "Titanic"
+  },
+  {
+    "question": "Quel acteur joue Batman dans 'The Dark Knight' ?",
+    "answers": [
+      "Ben Affleck",
+      "Michael Keaton",
+      "Christian Bale",
+      "Robert Pattinson"
+    ],
+    "correct": "Christian Bale"
+  },
+  {
+    "question": "En quelle année est sorti le premier film 'Star Wars' ?",
+    "answers": [
+      "1975",
+      "1977",
+      "1979",
+      "1980"
+    ],
+    "correct": "1977"
+  },
+  {
+    "question": "Qui a composé la musique du film 'E.T.' ?",
+    "answers": [
+      "Hans Zimmer",
+      "Danny Elfman",
+      "John Williams",
+      "Ennio Morricone"
+    ],
+    "correct": "John Williams"
+  },
+  {
+    "question": "Dans 'Le Seigneur des Anneaux', qui joue Gandalf ?",
+    "answers": [
+      "Ian McKellen",
+      "Christopher Lee",
+      "Sean Bean",
+      "Viggo Mortensen"
+    ],
+    "correct": "Ian McKellen"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+    "answers": [
+      "1917",
+      "Joker",
+      "Parasite",
+      "Once Upon a Time in Hollywood"
+    ],
+    "correct": "Parasite"
+  },
+  {
+    "question": "Qui a réalisé 'Citizen Kane' ?",
+    "answers": [
+      "Alfred Hitchcock",
+      "Orson Welles",
+      "Billy Wilder",
+      "John Ford"
+    ],
+    "correct": "Orson Welles"
+  },
+  {
+    "question": "Dans quel film trouve-t-on la phrase 'May the Force be with you' ?",
+    "answers": [
+      "Star Trek",
+      "Star Wars",
+      "Guardians of the Galaxy",
+      "Interstellar"
+    ],
+    "correct": "Star Wars"
+  },
+  {
+    "question": "Qui joue le rôle principal dans 'Forrest Gump' ?",
+    "answers": [
+      "Tom Cruise",
+      "Tom Hanks",
+      "Kevin Costner",
+      "Harrison Ford"
+    ],
+    "correct": "Tom Hanks"
+  },
+  {
+    "question": "Quel réalisateur a créé la saga 'Matrix' ?",
+    "answers": [
+      "Les frères Wachowski",
+      "Christopher Nolan",
+      "Ridley Scott",
+      "James Cameron"
+    ],
+    "correct": "Les frères Wachowski"
+  },
+  {
+    "question": "Dans 'Casablanca', quelle est la phrase culte d'Humphrey Bogart ?",
+    "answers": [
+      "Frankly, my dear, I don't give a damn",
+      "Here's looking at you, kid",
+      "I'll be back",
+      "Show me the money"
+    ],
+    "correct": "Here's looking at you, kid"
+  },
+  {
+    "question": "Qui a réalisé 'Vertigo' ?",
+    "answers": [
+      "Billy Wilder",
+      "Alfred Hitchcock",
+      "Howard Hawks",
+      "John Huston"
+    ],
+    "correct": "Alfred Hitchcock"
+  },
+  {
+    "question": "Dans quel film Robert De Niro dit-il 'You talkin' to me?' ?",
+    "answers": [
+      "Goodfellas",
+      "Casino",
+      "Taxi Driver",
+      "The Godfather"
+    ],
+    "correct": "Taxi Driver"
+  },
+  {
+    "question": "Qui joue Ellen Ripley dans 'Alien' ?",
+    "answers": [
+      "Sigourney Weaver",
+      "Linda Hamilton",
+      "Jamie Lee Curtis",
+      "Meryl Streep"
+    ],
+    "correct": "Sigourney Weaver"
+  },
+  {
+    "question": "Quel film de Disney est sorti en 1994 ?",
+    "answers": [
+      "Aladdin",
+      "La Belle et la Bête",
+      "Le Roi Lion",
+      "Pocahontas"
+    ],
+    "correct": "Le Roi Lion"
+  },
+  {
+    "question": "Qui a réalisé 'Apocalypse Now' ?",
+    "answers": [
+      "Martin Scorsese",
+      "Francis Ford Coppola",
+      "Oliver Stone",
+      "Michael Cimino"
+    ],
+    "correct": "Francis Ford Coppola"
+  },
+  {
+    "question": "Dans 'Terminator', qui joue le Terminator ?",
+    "answers": [
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Jean-Claude Van Damme"
+    ],
+    "correct": "Arnold Schwarzenegger"
+  },
+  {
+    "question": "Quel acteur joue Jack Sparrow dans 'Pirates des Caraïbes' ?",
+    "answers": [
+      "Orlando Bloom",
+      "Johnny Depp",
+      "Brad Pitt",
+      "Will Smith"
+    ],
+    "correct": "Johnny Depp"
+  },
+  {
+    "question": "Qui a réalisé 'Jurassic Park' ?",
+    "answers": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott"
+    ],
+    "correct": "Steven Spielberg"
+  },
+  {
+    "question": "Dans quel film trouve-t-on le personnage de Hannibal Lecter ?",
+    "answers": [
+      "Seven",
+      "Zodiac",
+      "Le Silence des Agneaux",
+      "Psycho"
+    ],
+    "correct": "Le Silence des Agneaux"
+  },
+  {
+    "question": "Qui joue Neo dans 'Matrix' ?",
+    "answers": [
+      "Keanu Reeves",
+      "Brad Pitt",
+      "Will Smith",
+      "Tom Cruise"
+    ],
+    "correct": "Keanu Reeves"
+  },
+  {
+    "question": "Quel film a popularisé la phrase 'I'll be back' ?",
+    "answers": [
+      "Predator",
+      "Conan",
+      "Terminator",
+      "Total Recall"
+    ],
+    "correct": "Terminator"
+  },
+  {
+    "question": "Qui a réalisé 'La Liste de Schindler' ?",
+    "answers": [
+      "Roman Polanski",
+      "Steven Spielberg",
+      "Clint Eastwood",
+      "Martin Scorsese"
+    ],
+    "correct": "Steven Spielberg"
+  },
+  {
+    "question": "Dans 'Rocky', qui joue le personnage principal ?",
+    "answers": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Sylvester Stallone",
+      "John Travolta"
+    ],
+    "correct": "Sylvester Stallone"
+  },
+  {
+    "question": "Quel acteur joue Indiana Jones ?",
+    "answers": [
+      "Tom Selleck",
+      "Harrison Ford",
+      "Kurt Russell",
+      "Kevin Costner"
+    ],
+    "correct": "Harrison Ford"
+  },
+  {
+    "question": "Qui a réalisé 'Fight Club' ?",
+    "answers": [
+      "Christopher Nolan",
+      "David Fincher",
+      "Danny Boyle",
+      "Paul Thomas Anderson"
+    ],
+    "correct": "David Fincher"
+  },
+  {
+    "question": "Dans quel film Marilyn Monroe chante-t-elle 'Diamonds Are a Girl's Best Friend' ?",
+    "answers": [
+      "Some Like It Hot",
+      "The Seven Year Itch",
+      "Gentlemen Prefer Blondes",
+      "Bus Stop"
+    ],
+    "correct": "Gentlemen Prefer Blondes"
+  },
+  {
+    "question": "Qui joue Vito Corleone dans 'Le Parrain' ?",
+    "answers": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
+    ],
+    "correct": "Marlon Brando"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Kill Bill' ?",
+    "answers": [
+      "Robert Rodriguez",
+      "Quentin Tarantino",
+      "Guy Ritchie",
+      "Zack Snyder"
+    ],
+    "correct": "Quentin Tarantino"
+  },
+  {
+    "question": "Dans 'Shrek', qui double la voix de Shrek en version originale ?",
+    "answers": [
+      "Eddie Murphy",
+      "Mike Myers",
+      "Cameron Diaz",
+      "Antonio Banderas"
+    ],
+    "correct": "Mike Myers"
+  },
+  {
+    "question": "Qui a réalisé 'Blade Runner' ?",
+    "answers": [
+      "Philip K. Dick",
+      "Ridley Scott",
+      "Denis Villeneuve",
+      "George Lucas"
+    ],
+    "correct": "Ridley Scott"
+  },
+  {
+    "question": "Dans quel film Bruce Willis est-il mort tout le long ?",
+    "answers": [
+      "Die Hard",
+      "Armageddon",
+      "Sixième Sens",
+      "Pulp Fiction"
+    ],
+    "correct": "Sixième Sens"
+  },
+  {
+    "question": "Qui joue le Joker dans 'The Dark Knight' ?",
+    "answers": [
+      "Jack Nicholson",
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jared Leto"
+    ],
+    "correct": "Heath Ledger"
+  },
+  {
+    "question": "Quel film de Pixar est sorti en premier ?",
+    "answers": [
+      "Toy Story",
+      "1001 Pattes",
+      "Monstres et Cie",
+      "Le Monde de Nemo"
+    ],
+    "correct": "Toy Story"
+  },
+  {
+    "question": "Qui a réalisé 'E.T. l'extra-terrestre' ?",
+    "answers": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Robert Zemeckis"
+    ],
+    "correct": "Steven Spielberg"
+  },
+  {
+    "question": "Dans 'Ghostbusters', qui chante le thème principal ?",
+    "answers": [
+      "Bill Murray",
+      "Dan Aykroyd",
+      "Ray Parker Jr.",
+      "Harold Ramis"
+    ],
+    "correct": "Ray Parker Jr."
+  },
+  {
+    "question": "Quel acteur joue Tyler Durden dans 'Fight Club' ?",
+    "answers": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Matt Damon",
+      "Leonardo DiCaprio"
+    ],
+    "correct": "Brad Pitt"
+  },
+  {
+    "question": "Qui a réalisé 'Les Dents de la mer' ?",
+    "answers": [
+      "John Carpenter",
+      "Steven Spielberg",
+      "George Lucas",
+      "Brian De Palma"
+    ],
+    "correct": "Steven Spielberg"
+  },
+  {
+    "question": "Dans 'Retour vers le futur', comment s'appelle la machine à voyager dans le temps ?",
+    "answers": [
+      "KITT",
+      "DeLorean",
+      "Herbie",
+      "Eleanor"
+    ],
+    "correct": "DeLorean"
+  },
+  {
+    "question": "Qui joue Scarlett O'Hara dans 'Autant en emporte le vent' ?",
+    "answers": [
+      "Grace Kelly",
+      "Vivien Leigh",
+      "Audrey Hepburn",
+      "Elizabeth Taylor"
+    ],
+    "correct": "Vivien Leigh"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Inglourious Basterds' ?",
+    "answers": [
+      "Guy Ritchie",
+      "Quentin Tarantino",
+      "Robert Rodriguez",
+      "Oliver Stone"
+    ],
+    "correct": "Quentin Tarantino"
+  },
+  {
+    "question": "Dans 'Avatar', qui joue Jake Sully ?",
+    "answers": [
+      "Sam Worthington",
+      "Shia LaBeouf",
+      "Taylor Kitsch",
+      "Garrett Hedlund"
+    ],
+    "correct": "Sam Worthington"
+  },
+  {
+    "question": "Qui a réalisé 'Goodfellas' ?",
+    "answers": [
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Sidney Lumet"
+    ],
+    "correct": "Martin Scorsese"
+  },
+  {
+    "question": "Dans 'The Shining', quelle phrase Jack Torrance écrit-il sans cesse ?",
+    "answers": [
+      "Here's Johnny!",
+      "All work and no play makes Jack a dull boy",
+      "Redrum",
+      "Room 237"
+    ],
+    "correct": "All work and no play makes Jack a dull boy"
+  },
+  {
+    "question": "Qui joue Hermione Granger dans Harry Potter ?",
+    "answers": [
+      "Emma Stone",
+      "Emma Watson",
+      "Emma Roberts",
+      "Emily Blunt"
+    ],
+    "correct": "Emma Watson"
+  },
+  {
+    "question": "Quel film a rendu célèbre la phrase 'Show me the money!' ?",
+    "answers": [
+      "Wall Street",
+      "Jerry Maguire",
+      "A Few Good Men",
+      "Rain Man"
+    ],
+    "correct": "Jerry Maguire"
+  },
+  {
+    "question": "Qui a réalisé 'Inception' ?",
+    "answers": [
+      "David Fincher",
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "correct": "Christopher Nolan"
+  },
+  {
+    "question": "Dans 'Les Dents de la mer', quel est le surnom du requin sur le plateau ?",
+    "answers": [
+      "Bruce",
+      "Jaws",
+      "Shark",
+      "Il n'a pas de nom"
+    ],
+    "correct": "Bruce"
+  },
+  {
+    "question": "Qui joue Wolverine dans X-Men ?",
+    "answers": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Christian Bale"
+    ],
+    "correct": "Hugh Jackman"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Reservoir Dogs' ?",
+    "answers": [
+      "Guy Ritchie",
+      "Quentin Tarantino",
+      "Robert Rodriguez",
+      "Danny Boyle"
+    ],
+    "correct": "Quentin Tarantino"
+  },
+  {
+    "question": "Dans 'Amélie', qui joue le rôle titre ?",
+    "answers": [
+      "Marion Cotillard",
+      "Audrey Tautou",
+      "Léa Seydoux",
+      "Mélanie Laurent"
+    ],
+    "correct": "Audrey Tautou"
+  },
+  {
+    "question": "Qui a réalisé 'Interstellar' ?",
+    "answers": [
+      "Denis Villeneuve",
+      "Christopher Nolan",
+      "Ridley Scott",
+      "James Cameron"
+    ],
+    "correct": "Christopher Nolan"
+  },
+  {
+    "question": "Dans 'Top Gun', quel est le nom de code de Tom Cruise ?",
+    "answers": [
+      "Iceman",
+      "Goose",
+      "Maverick",
+      "Viper"
+    ],
+    "correct": "Maverick"
+  },
+  {
+    "question": "Qui joue Rose dans 'Titanic' ?",
+    "answers": [
+      "Kate Winslet",
+      "Nicole Kidman",
+      "Cate Blanchett",
+      "Charlize Theron"
+    ],
+    "correct": "Kate Winslet"
+  },
+  {
+    "question": "Quel film de Stanley Kubrick se déroule dans l'espace ?",
+    "answers": [
+      "A Clockwork Orange",
+      "Full Metal Jacket",
+      "2001: A Space Odyssey",
+      "Barry Lyndon"
+    ],
+    "correct": "2001: A Space Odyssey"
+  },
+  {
+    "question": "Qui a composé la musique de 'Star Wars' ?",
+    "answers": [
+      "Danny Elfman",
+      "John Williams",
+      "Hans Zimmer",
+      "James Horner"
+    ],
+    "correct": "John Williams"
+  },
+  {
+    "question": "Dans 'Scarface', qui joue Tony Montana ?",
+    "answers": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Joe Pesci",
+      "Ray Liotta"
+    ],
+    "correct": "Al Pacino"
+  },
+  {
+    "question": "Qui a réalisé 'Casino' ?",
+    "answers": [
+      "Brian De Palma",
+      "Martin Scorsese",
+      "Francis Ford Coppola",
+      "Sidney Lumet"
+    ],
+    "correct": "Martin Scorsese"
+  },
+  {
+    "question": "Dans 'The Lion King', qui double Simba adulte en version originale ?",
+    "answers": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones",
+      "Nathan Lane"
+    ],
+    "correct": "Matthew Broderick"
+  },
+  {
+    "question": "Qui joue Danny Ocean dans 'Ocean's Eleven' (2001) ?",
+    "answers": [
+      "Brad Pitt",
+      "George Clooney",
+      "Matt Damon",
+      "Andy García"
+    ],
+    "correct": "George Clooney"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Memento' ?",
+    "answers": [
+      "David Lynch",
+      "Christopher Nolan",
+      "Charlie Kaufman",
+      "Paul Thomas Anderson"
+    ],
+    "correct": "Christopher Nolan"
+  },
+  {
+    "question": "Dans 'The Sixth Sense', que dit le garçon à propos des morts ?",
+    "answers": [
+      "I hear dead people",
+      "I see dead people",
+      "I feel dead people",
+      "I know dead people"
+    ],
+    "correct": "I see dead people"
+  },
+  {
+    "question": "Qui a réalisé 'Raging Bull' ?",
+    "answers": [
+      "Michael Cimino",
+      "Martin Scorsese",
+      "Francis Ford Coppola",
+      "Brian De Palma"
+    ],
+    "correct": "Martin Scorsese"
+  },
+  {
+    "question": "Dans 'Speed', sur quoi se trouvent Sandra Bullock et Keanu Reeves ?",
+    "answers": [
+      "Un avion",
+      "Un train",
+      "Un bus",
+      "Un bateau"
+    ],
+    "correct": "Un bus"
+  },
+  {
+    "question": "Qui joue Sarah Connor dans 'Terminator 2' ?",
+    "answers": [
+      "Sigourney Weaver",
+      "Linda Hamilton",
+      "Jamie Lee Curtis",
+      "Michelle Pfeiffer"
+    ],
+    "correct": "Linda Hamilton"
+  },
+  {
+    "question": "Quel film a popularisé la phrase 'Frankly, my dear, I don't give a damn' ?",
+    "answers": [
+      "Casablanca",
+      "Citizen Kane",
+      "Autant en emporte le vent",
+      "Sunset Boulevard"
+    ],
+    "correct": "Autant en emporte le vent"
+  },
+  {
+    "question": "Qui a réalisé 'There Will Be Blood' ?",
+    "answers": [
+      "Joel Coen",
+      "Paul Thomas Anderson",
+      "David Lynch",
+      "Terrence Malick"
+    ],
+    "correct": "Paul Thomas Anderson"
+  },
+  {
+    "question": "Dans 'Finding Nemo', quel type de poisson est Nemo ?",
+    "answers": [
+      "Poisson-clown",
+      "Poisson-chirurgien",
+      "Poisson-ange",
+      "Poisson-papillon"
+    ],
+    "correct": "Poisson-clown"
+  },
+  {
+    "question": "Qui joue le Grinch dans 'Le Grinch' (2000) ?",
+    "answers": [
+      "Robin Williams",
+      "Jim Carrey",
+      "Mike Myers",
+      "Eddie Murphy"
+    ],
+    "correct": "Jim Carrey"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Shutter Island' ?",
+    "answers": [
+      "David Fincher",
+      "Martin Scorsese",
+      "Christopher Nolan",
+      "Denis Villeneuve"
+    ],
+    "correct": "Martin Scorsese"
+  },
+  {
+    "question": "Dans 'Gladiator', qui joue Maximus ?",
+    "answers": [
+      "Gerard Butler",
+      "Russell Crowe",
+      "Hugh Jackman",
+      "Christian Bale"
+    ],
+    "correct": "Russell Crowe"
+  },
+  {
+    "question": "Qui a réalisé 'No Country for Old Men' ?",
+    "answers": [
+      "Les frères Coen",
+      "Paul Thomas Anderson",
+      "David Lynch",
+      "Terrence Malick"
+    ],
+    "correct": "Les frères Coen"
+  },
+  {
+    "question": "Dans 'Men in Black', qui joue l'agent J ?",
+    "answers": [
+      "Eddie Murphy",
+      "Will Smith",
+      "Martin Lawrence",
+      "Chris Tucker"
+    ],
+    "correct": "Will Smith"
+  },
+  {
+    "question": "Qui joue Clarice Starling dans 'Le Silence des Agneaux' ?",
+    "answers": [
+      "Glenn Close",
+      "Jodie Foster",
+      "Michelle Pfeiffer",
+      "Meryl Streep"
+    ],
+    "correct": "Jodie Foster"
+  },
+  {
+    "question": "Quel film a rendu célèbre la phrase 'Nobody puts Baby in a corner' ?",
+    "answers": [
+      "Flashdance",
+      "Footloose",
+      "Dirty Dancing",
+      "Saturday Night Fever"
+    ],
+    "correct": "Dirty Dancing"
+  },
+  {
+    "question": "Qui a réalisé 'American Beauty' ?",
+    "answers": [
+      "David Lynch",
+      "Sam Mendes",
+      "Danny Boyle",
+      "Paul Thomas Anderson"
+    ],
+    "correct": "Sam Mendes"
+  },
+  {
+    "question": "Dans 'The Mask', qui joue Stanley Ipkiss ?",
+    "answers": [
+      "Robin Williams",
+      "Jim Carrey",
+      "Mike Myers",
+      "Adam Sandler"
+    ],
+    "correct": "Jim Carrey"
+  },
+  {
+    "question": "Qui joue Mia Wallace dans 'Pulp Fiction' ?",
+    "answers": [
+      "Sharon Stone",
+      "Uma Thurman",
+      "Michelle Pfeiffer",
+      "Demi Moore"
+    ],
+    "correct": "Uma Thurman"
+  },
+  {
+    "question": "Quel réalisateur a créé 'The Prestige' ?",
+    "answers": [
+      "David Fincher",
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "correct": "Christopher Nolan"
+  },
+  {
+    "question": "Dans 'Home Alone', comment s'appelle le garçon abandonné ?",
+    "answers": [
+      "Kevin McCallister",
+      "Dennis Mitchell",
+      "Richie Rich",
+      "Billy Madison"
+    ],
+    "correct": "Kevin McCallister"
+  },
+  {
+    "question": "Qui a réalisé 'Saving Private Ryan' ?",
+    "answers": [
+      "Oliver Stone",
+      "Steven Spielberg",
+      "Ridley Scott",
+      "Michael Bay"
+    ],
+    "correct": "Steven Spielberg"
+  },
+  {
+    "question": "Dans 'The Big Lebowski', comment surnomme-t-on Jeff Bridges ?",
+    "answers": [
+      "The Dude",
+      "Big Jeff",
+      "The Lebowski",
+      "Jeffrey"
+    ],
+    "correct": "The Dude"
+  },
+  {
+    "question": "Qui joue Morpheus dans 'Matrix' ?",
+    "answers": [
+      "Samuel L. Jackson",
+      "Laurence Fishburne",
+      "Morgan Freeman",
+      "Danny Glover"
+    ],
+    "correct": "Laurence Fishburne"
+  },
+  {
+    "question": "Quel film de Disney met en scène une petite sirène ?",
+    "answers": [
+      "Moana",
+      "La Petite Sirène",
+      "Lilo et Stitch",
+      "Vaiana"
+    ],
+    "correct": "La Petite Sirène"
+  },
+  {
+    "question": "Qui a réalisé 'Zodiac' ?",
+    "answers": [
+      "Christopher Nolan",
+      "David Fincher",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "correct": "David Fincher"
+  },
+  {
+    "question": "Dans 'Pretty Woman', qui joue Vivian ?",
+    "answers": [
+      "Meg Ryan",
+      "Julia Roberts",
+      "Sandra Bullock",
+      "Michelle Pfeiffer"
+    ],
+    "correct": "Julia Roberts"
+  },
+  {
+    "question": "Qui joue Rambo ?",
+    "answers": [
+      "Arnold Schwarzenegger",
+      "Sylvester Stallone",
+      "Bruce Willis",
+      "Jean-Claude Van Damme"
+    ],
+    "correct": "Sylvester Stallone"
+  },
+  {
+    "question": "Quel réalisateur a créé 'Django Unchained' ?",
+    "answers": [
+      "Robert Rodriguez",
+      "Quentin Tarantino",
+      "Guy Ritchie",
+      "Oliver Stone"
+    ],
+    "correct": "Quentin Tarantino"
+  },
+  {
+    "question": "Dans 'Toy Story', qui double Woody en version originale ?",
+    "answers": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Billy Crystal",
+      "John Goodman"
+    ],
+    "correct": "Tom Hanks"
+  },
+  {
+    "question": "Qui a réalisé 'Fargo' ?",
+    "answers": [
+      "David Lynch",
+      "Les frères Coen",
+      "Paul Thomas Anderson",
+      "Terrence Malick"
+    ],
+    "correct": "Les frères Coen"
+  },
+  {
+    "question": "Dans 'Ghost', qui joue Sam Wheat ?",
+    "answers": [
+      "Kevin Costner",
+      "Patrick Swayze",
+      "Tom Cruise",
+      "Richard Gere"
+    ],
+    "correct": "Patrick Swayze"
+  },
+  {
+    "question": "Qui joue le Capitaine Jack Sparrow ?",
+    "answers": [
+      "Orlando Bloom",
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Keira Knightley"
+    ],
+    "correct": "Johnny Depp"
+  },
+  {
+    "question": "Quel film a popularisé la phrase 'I see dead people' ?",
+    "answers": [
+      "The Others",
+      "Sixième Sens",
+      "The Ring",
+      "The Grudge"
+    ],
+    "correct": "Sixième Sens"
+  },
+  {
+    "question": "Qui a réalisé 'The Departed' ?",
+    "answers": [
+      "Brian De Palma",
+      "Martin Scorsese",
+      "Francis Ford Coppola",
+      "Sidney Lumet"
+    ],
+    "correct": "Martin Scorsese"
+  },
+  {
+    "question": "Dans 'Iron Man', qui joue Tony Stark ?",
+    "answers": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "correct": "Robert Downey Jr."
+  },
+  {
+    "question": "Qui joue Elsa dans 'Frozen' en version originale ?",
+    "answers": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Mandy Moore",
+      "Anna Kendrick"
+    ],
+    "correct": "Idina Menzel"
+  },
+  {
+    "question": "Quel réalisateur a créé 'The Wolf of Wall Street' ?",
+    "answers": [
+      "David Fincher",
+      "Martin Scorsese",
+      "Oliver Stone",
+      "Paul Thomas Anderson"
+    ],
+    "correct": "Martin Scorsese"
+    }
+  ]

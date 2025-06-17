@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaderboard</title>
+  <link rel="stylesheet" href="../css/leaderboard.css">
+</head>
+<body>
+
+  <img src="../images/back-arrow.png" alt="Retour" class="back-arrow" onclick="history.back()">
+  <img src="../images/logo.png" alt="Logo BrainZone" class="logo-img">
+<div class="leaderboard-banner">
+    <h1>🏆 Classement 🏆</h1>   
+</div>
+
+
+
+  <div id="leaderboards">
+    <div id="films-leaderboard" class="leaderboard-section">
+      <h2>🎬 Films 🎬</h2>
+      <div class="leaderboard-content" id="films-content"></div>
+    </div>
+
+    <div id="jeux-leaderboard" class="leaderboard-section">
+      <h2>🎮 Jeux Vidéo 🎮</h2>
+      <div class="leaderboard-content" id="jeux-content"></div>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script>
+    function loadLeaderboard(theme) {
+      fetch(`http://localhost:3000/api/leaderboard?theme=${theme}`)
+        .then(res => res.json())
+        .then(data => {
+          const container = document.getElementById(`${theme}-content`);
+          container.innerHTML = "";
+          data.forEach((player, i) => {
+            const line = document.createElement("p");
+            line.textContent = `#${i + 1} – ${player.username} : ${player.best_score}`;
+            container.appendChild(line);
+          });
+        });
+    }
+
+    loadLeaderboard("films");
+    loadLeaderboard("jeux");
+  </script>
+
+</body>
+</html>

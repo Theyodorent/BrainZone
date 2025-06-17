@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connexion</title>
+  <link rel="stylesheet" href="/public/css/auth.css">
+</head>
+<body>
+  <header class="logo-header">
+    <img src="../images/logo.png" alt="Logo BrainZone" class="logo-img">
+  </header>
+
+  <h1 class="h1">Connexion</h1>
+  <img src="../images/back-arrow.png" alt="Retour" class="back-arrow" onclick="history.back()">
+
+  <input type="text" id="username" placeholder="Nom d'utilisateur">
+  <input type="password" id="password" placeholder="Mot de passe">
+  <button onclick="login()">Se connecter</button>
+  <p id="message"></p>
+
+  <script>
+    function login() {
+      const username = document.getElementById("username").value;
+      const password = document.getElementById("password").value;
+
+      fetch("http://localhost:3000/api/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        credentials: "include", // 🔒 pour que les cookies passent
+        body: JSON.stringify({ username, password })
+      })
+      .then(res => res.json())
+      .then(data => {
+        if (data.message) {
+          window.location.href = "choix.html";
+        } else {
+          document.getElementById("message").textContent = data.error || "Erreur de connexion";
+        }
+      })
+      .catch(() => {
+        document.getElementById("message").textContent = "Erreur serveur";
+      });
+    }
+  </script>
+</body>
+</html>

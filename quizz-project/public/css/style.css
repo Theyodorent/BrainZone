@@ -1,0 +1,341 @@
+.bodyWelcome {
+    background-color: #1f2937;
+    color: aliceblue;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+  
+.back-arrow {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  height: 32px;
+  width: auto;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.3s ease;
+  z-index: 10;
+}
+
+.back-arrow:hover {
+  opacity: 0.9;
+}
+
+.profile-menu {
+  position: absolute;
+  top: 50px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.profile-link {
+  top: 50px;
+  right: 50px;
+  background-color:#2563eb ;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.5s ease;
+}
+
+.profile-link:hover {
+  background-color:#0b47a7 ;
+}
+
+.leaderboard{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:#facc15 ;
+  color: #3f320c;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.5s ease;
+}
+
+.leaderboard:hover{
+  background-color:#eab308
+}
+
+.logout-btn {
+  background-color: #ef4444;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.logout-btn:hover {
+  background-color: #dc2626;
+  transform: scale(1.05);
+}
+
+
+  h1 {
+    font-size: 70px;
+    margin-bottom: 80px;
+    margin-top: 100px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .welcome-btn-jeux {
+    background-color: #3b82f6;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    width: 250px;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s ease;
+  }
+  
+  .welcome-btn-jeux:hover {
+    background-color: #2563eb;
+  }
+  
+  .welcome-btn-films {
+    background-color: #ec4899;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    width: 250px;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s ease;
+  }
+  
+  .welcome-btn-films:hover {
+    background-color: #db2777;
+  }
+  
+  footer {
+    position: absolute;
+    bottom: 20px;
+    font-size: 14px;
+    color: #cbd5e1;
+  }
+
+  .registerlogin{
+    font-size: 20px;
+    color: wheat;
+  }
+  
+
+  .logo-header {
+  position: absolute;
+  top: 52px;
+  left: 20px;
+}
+
+.logo-img {
+  height: 150px;
+}
+
+
+
+@media (max-width: 1024px) {
+.bodyWelcome {
+    background-color: #1f2937;
+    color: aliceblue;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150vh;
+    margin: 0;
+    text-align: center;
+  }
+  
+
+  .profile-menu {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    top: auto;
+    transform: none;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    padding: 10px;
+    border-radius: 12px;
+    z-index: 999;
+  }
+
+  .profile-link,
+  .leaderboard,
+  .logout-btn {
+    width: auto;
+    min-width: 140px;
+    text-align: center;
+    font-size: 16px;
+
+  }
+
+
+
+  .logo-img {
+    height: 80px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .logo-img {
+    height: 100px;
+  }
+
+  h1 {
+    font-size: 50px;
+    margin-top: 80px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  .profile-menu {
+    position: relative;
+    margin-top: 50px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .profile-link,
+  .leaderboard,
+  .logout-btn {
+    width: 140px;
+    font-size: 16px;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+
+@media (max-width: 768px) {
+.bodyWelcome {
+    background-color: #1f2937;
+    color: aliceblue;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin-top: 60px;
+  }
+
+  h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+
+  .welcome-btn-jeux,
+  .welcome-btn-films {
+    width: 200px;
+    font-size: 18px;
+  }
+
+  .profile-menu {
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 80px;
+    margin-left: 35px;
+  }
+
+  .profile-link,
+  .leaderboard,
+  .logout-btn {
+    width: 150px;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+.bodyWelcome {
+    background-color: #1f2937;
+    color: aliceblue;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+
+  .logo-img {
+    display: none;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  .welcome-btn-jeux,
+  .welcome-btn-films {
+    width: 180px;
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .profile-link,
+  .leaderboard,
+  .logout-btn {
+    width: 100px;
+    font-size: 14px;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+}
+

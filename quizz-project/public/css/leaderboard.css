@@ -1,0 +1,252 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1e1e2f, #3e3e6b);
+  color: white;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+}
+
+.back-arrow {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  height: 32px;
+  width: auto;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.3s ease;
+  z-index: 10;
+}
+
+.back-arrow:hover {
+  opacity: 0.9;
+}
+
+.logo-img {
+  height: 150px;
+  position: absolute;
+  top: 52px;
+  left: 20px;
+}
+
+.leaderboard-banner {
+  background: linear-gradient(to right, #facc15, #fcd34d);
+  padding: 25px;
+  border-radius: 16px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  display: inline-block;
+}
+
+.leaderboard-banner h1 {
+  color: #1e1e2f;
+  font-size: 36px;
+  margin: 0;
+}
+
+#leaderboards {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.leaderboard-section {
+  background: linear-gradient(145deg, #334155, #1e293b);
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  padding: 30px 40px;
+  min-width: 280px;
+  max-width: 350px;
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.leaderboard-section h2 {
+  color: #38bdf8;
+  margin-bottom: 15px;
+  font-size: 24px;
+  border-bottom: 1px solid #38bdf8;
+  padding-bottom: 10px;
+}
+
+.leaderboard-content p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+.leaderboard-content p:nth-child(1) { color: gold; font-weight: bold; }
+.leaderboard-content p:nth-child(2) { color: silver; font-weight: bold; }
+.leaderboard-content p:nth-child(3) { color: #cd7f32; font-weight: bold; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (max-width: 768px) {
+  body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1e1e2f, #3e3e6b);
+  color: white;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+  height: 1500px;
+}
+
+.back-arrow {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  height: 32px;
+  width: auto;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.3s ease;
+  z-index: 10;
+}
+
+.back-arrow:hover {
+  opacity: 0.9;
+}
+
+.logo-img {
+  height: 120px;
+  position: absolute;
+  top: 0px;
+  left: 40%;
+}
+
+.leaderboard-banner {
+  background: linear-gradient(to right, #facc15, #fcd34d);
+  padding: 25px;
+  border-radius: 16px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  display: inline-block;
+}
+
+.leaderboard-banner h1 {
+  color: #1e1e2f;
+  font-size: 30px;
+  margin: 0;
+}
+
+#leaderboards {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.leaderboard-section {
+  background: linear-gradient(145deg, #334155, #1e293b);
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  padding: 30px 40px;
+  min-width: 280px;
+  max-width: 350px;
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.leaderboard-section h2 {
+  color: #38bdf8;
+  margin-bottom: 15px;
+  font-size: 24px;
+  border-bottom: 1px solid #38bdf8;
+  padding-bottom: 10px;
+}
+
+.leaderboard-content p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+}
+
+
+@media (max-width: 480px) {
+   body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1e1e2f, #3e3e6b);
+  color: white;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+  height: 1200px;
+}
+
+.back-arrow {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  height: 32px;
+  width: auto;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.3s ease;
+  z-index: 10;
+}
+
+.back-arrow:hover {
+  opacity: 0.9;
+}
+
+.logo-img {
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 38%;
+}
+
+.leaderboard-banner {
+  background: linear-gradient(to right, #facc15, #fcd34d);
+  padding: 25px;
+  border-radius: 16px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  display: inline-block;
+}
+
+.leaderboard-banner h1 {
+  color: #1e1e2f;
+  font-size: 25px;
+  margin: 0;
+}
+
+#leaderboards {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.leaderboard-section {
+  background: linear-gradient(145deg, #334155, #1e293b);
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  padding: 30px 40px;
+  min-width: 280px;
+  max-width: 350px;
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.leaderboard-section h2 {
+  color: #38bdf8;
+  margin-bottom: 15px;
+  font-size: 24px;
+  border-bottom: 1px solid #38bdf8;
+  padding-bottom: 10px;
+}
+
+.leaderboard-content p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+}

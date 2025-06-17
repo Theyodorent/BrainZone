@@ -1,0 +1,1002 @@
+[
+    {
+      "question": "Quel personnage attrape des Pokémon ?",
+      "answers": [
+        "Sacha",
+        "Naruto",
+        "Link",
+        "Donkey Kong"
+      ],
+      "correct": "Sacha"
+    },
+    {
+      "question": "Dans quel jeu incarne-t-on Link ?",
+      "answers": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Super Mario",
+        "Sonic"
+      ],
+      "correct": "The Legend of Zelda"
+    },
+    {
+      "question": "Quelle console a été créée par Nintendo en 1985 ?",
+      "answers": [
+        "Game Boy",
+        "Super Nintendo",
+        "Nintendo Entertainment System",
+        "Nintendo 64"
+      ],
+      "correct": "Nintendo Entertainment System"
+    },
+    {
+      "question": "Quel est le nom du hérisson bleu de Sega ?",
+      "answers": [
+        "Sonic",
+        "Tails",
+        "Knuckles",
+        "Shadow"
+      ],
+      "correct": "Sonic"
+    },
+    {
+      "question": "Dans Street Fighter, quel est le coup spécial de Ryu ?",
+      "answers": [
+        "Sonic Boom",
+        "Hadoken",
+        "Shoryuken",
+        "Tiger Shot"
+      ],
+      "correct": "Hadoken"
+    },
+    {
+      "question": "Quel jeu de course est développé par Nintendo ?",
+      "answers": [
+        "Gran Turismo",
+        "Mario Kart",
+        "Need for Speed",
+        "Forza"
+      ],
+      "correct": "Mario Kart"
+    },
+    {
+      "question": "Dans Pac-Man, comment s'appellent les fantômes ?",
+      "answers": [
+        "Blinky, Pinky, Inky, Clyde",
+        "Red, Blue, Pink, Orange",
+        "Ghost1, Ghost2, Ghost3, Ghost4",
+        "Speedy, Bashful, Pokey, Shadow"
+      ],
+      "correct": "Blinky, Pinky, Inky, Clyde"
+    },
+    {
+      "question": "Quel studio a créé Grand Theft Auto ?",
+      "answers": [
+        "Rockstar Games",
+        "Electronic Arts",
+        "Ubisoft",
+        "Activision"
+      ],
+      "correct": "Rockstar Games"
+    },
+    {
+      "question": "Dans Minecraft, quel matériau est le plus résistant ?",
+      "answers": [
+        "Diamant",
+        "Obsidienne",
+        "Bedrock",
+        "Netherite"
+      ],
+      "correct": "Bedrock"
+    },
+    {
+      "question": "Quel est le nom de la princesse dans Super Mario ?",
+      "answers": [
+        "Zelda",
+        "Peach",
+        "Daisy",
+        "Rosalina"
+      ],
+      "correct": "Peach"
+    },
+    {
+      "question": "Dans World of Warcraft, quelle race ne fait pas partie de l'Alliance ?",
+      "answers": [
+        "Humain",
+        "Elfe",
+        "Orc",
+        "Nain"
+      ],
+      "correct": "Orc"
+    },
+    {
+      "question": "Quel jeu de bataille royale a été développé par Epic Games ?",
+      "answers": [
+        "PUBG",
+        "Apex Legends",
+        "Fortnite",
+        "Call of Duty Warzone"
+      ],
+      "correct": "Fortnite"
+    },
+    {
+      "question": "Dans Tetris, comment appelle-t-on une ligne complète ?",
+      "answers": [
+        "Tetris",
+        "Line",
+        "Complete",
+        "Full"
+      ],
+      "correct": "Tetris"
+    },
+    {
+      "question": "Quel est le nom du protagoniste de Half-Life ?",
+      "answers": [
+        "Gordon Freeman",
+        "Alex Vance",
+        "Barney Calhoun",
+        "Adrian Shephard"
+      ],
+      "correct": "Gordon Freeman"
+    },
+    {
+      "question": "Dans Final Fantasy VII, quel est le nom de l'antagoniste principal ?",
+      "answers": [
+        "Kefka",
+        "Sephiroth",
+        "Ultimecia",
+        "Kuja"
+      ],
+      "correct": "Sephiroth"
+    },
+    {
+      "question": "Quel jeu de simulation de vie a été créé par Will Wright ?",
+      "answers": [
+        "Animal Crossing",
+        "The Sims",
+        "Second Life",
+        "Harvest Moon"
+      ],
+      "correct": "The Sims"
+    },
+    {
+      "question": "Dans Portal, comment s'appelle l'IA antagoniste ?",
+      "answers": [
+        "HAL 9000",
+        "GLaDOS",
+        "SHODAN",
+        "Cortana"
+      ],
+      "correct": "GLaDOS"
+    },
+    {
+      "question": "Quel est le nom de la console portable de Sony ?",
+      "answers": [
+        "Game Gear",
+        "PlayStation Portable",
+        "Nintendo DS",
+        "Atari Lynx"
+      ],
+      "correct": "PlayStation Portable"
+    },
+    {
+      "question": "Dans Mortal Kombat, qui crie 'Get over here!' ?",
+      "answers": [
+        "Sub-Zero",
+        "Scorpion",
+        "Liu Kang",
+        "Raiden"
+      ],
+      "correct": "Scorpion"
+    },
+    {
+      "question": "Quel jeu a popularisé le genre battle royale ?",
+      "answers": [
+        "H1Z1",
+        "PUBG",
+        "Fortnite",
+        "DayZ"
+      ],
+      "correct": "PUBG"
+    },
+    {
+      "question": "Dans Overwatch, quelle est la nationalité de Tracer ?",
+      "answers": [
+        "Américaine",
+        "Britannique",
+        "Australienne",
+        "Canadienne"
+      ],
+      "correct": "Britannique"
+    },
+    {
+      "question": "Quel est le nom de l'épée de Link dans Zelda ?",
+      "answers": [
+        "Excalibur",
+        "Master Sword",
+        "Épée de Légende",
+        "Lame Sacrée"
+      ],
+      "correct": "Master Sword"
+    },
+    {
+      "question": "Dans Counter-Strike, quelle équipe plante la bombe ?",
+      "answers": [
+        "Counter-Terrorists",
+        "Terrorists",
+        "SWAT",
+        "Police"
+      ],
+      "correct": "Terrorists"
+    },
+    {
+      "question": "Quel studio a développé The Witcher 3 ?",
+      "answers": [
+        "Bethesda",
+        "CD Projekt Red",
+        "BioWare",
+        "Obsidian"
+      ],
+      "correct": "CD Projekt Red"
+    },
+    {
+      "question": "Dans Donkey Kong, qui était le personnage jouable original ?",
+      "answers": [
+        "Mario",
+        "Luigi",
+        "Jumpman",
+        "Plumber"
+      ],
+      "correct": "Jumpman"
+    },
+    {
+      "question": "Quel jeu de rythme japonais met en scène des tambours ?",
+      "answers": [
+        "Guitar Hero",
+        "Rock Band",
+        "Taiko no Tatsujin",
+        "Dance Dance Revolution"
+      ],
+      "correct": "Taiko no Tatsujin"
+    },
+    {
+      "question": "Dans Assassin's Creed, comment s'appelle l'ancêtre d'Ezio ?",
+      "answers": [
+        "Altaïr",
+        "Connor",
+        "Edward",
+        "Arno"
+      ],
+      "correct": "Altaïr"
+    },
+    {
+      "question": "Quel est le nom de la monnaie dans Animal Crossing ?",
+      "answers": [
+        "Étoiles",
+        "Clochettes",
+        "Pièces",
+        "Nook Miles"
+      ],
+      "correct": "Clochettes"
+    },
+    {
+      "question": "Dans Doom, contre quels ennemis se bat-on principalement ?",
+      "answers": [
+        "Aliens",
+        "Zombies",
+        "Démons",
+        "Robots"
+      ],
+      "correct": "Démons"
+    },
+    {
+      "question": "Quel jeu de stratégie met en scène des civilisations historiques ?",
+      "answers": [
+        "Age of Empires",
+        "StarCraft",
+        "Command & Conquer",
+        "Warcraft"
+      ],
+      "correct": "Age of Empires"
+    },
+    {
+      "question": "Dans Super Smash Bros, quel personnage représente Metroid ?",
+      "answers": [
+        "Samus",
+        "Ridley",
+        "Metroid",
+        "Dark Samus"
+      ],
+      "correct": "Samus"
+    },
+    {
+      "question": "Quel est le nom de la console de Microsoft ?",
+      "answers": [
+        "PlayStation",
+        "Xbox",
+        "Wii",
+        "Switch"
+      ],
+      "correct": "Xbox"
+    },
+    {
+      "question": "Dans League of Legends, comment appelle-t-on la carte principale ?",
+      "answers": [
+        "Summoner's Rift",
+        "Howling Abyss",
+        "Twisted Treeline",
+        "Crystal Scar"
+      ],
+      "correct": "Summoner's Rift"
+    },
+    {
+      "question": "Quel jeu de puzzle a été créé par Alexey Pajitnov ?",
+      "answers": [
+        "Columns",
+        "Tetris",
+        "Dr. Mario",
+        "Puyo Puyo"
+      ],
+      "correct": "Tetris"
+    },
+    {
+      "question": "Dans Metal Gear Solid, quel est le nom de code du protagoniste ?",
+      "answers": [
+        "Solid Snake",
+        "Liquid Snake",
+        "Big Boss",
+        "Gray Fox"
+      ],
+      "correct": "Solid Snake"
+    },
+    {
+      "question": "Quel jeu de course se déroule dans un monde fantastique avec des armes ?",
+      "answers": [
+        "F-Zero",
+        "Mario Kart",
+        "Wipeout",
+        "Burnout"
+      ],
+      "correct": "Mario Kart"
+    },
+    {
+      "question": "Dans Resident Evil, dans quelle ville se déroule le premier jeu ?",
+      "answers": [
+        "Silent Hill",
+        "Raccoon City",
+        "Arklay Mountains",
+        "Spencer Mansion"
+      ],
+      "correct": "Arklay Mountains"
+    },
+    {
+      "question": "Quel est le nom du créateur de Pokémon ?",
+      "answers": [
+        "Shigeru Miyamoto",
+        "Satoshi Tajiri",
+        "Hironobu Sakaguchi",
+        "Yuji Naka"
+      ],
+      "correct": "Satoshi Tajiri"
+    },
+    {
+      "question": "Dans Tomb Raider, comment s'appelle l'héroïne ?",
+      "answers": [
+        "Lara Croft",
+        "Samus Aran",
+        "Jill Valentine",
+        "Chun-Li"
+      ],
+      "correct": "Lara Croft"
+    },
+    {
+      "question": "Quel jeu de construction utilise des blocs cubiques ?",
+      "answers": [
+        "Terraria",
+        "Minecraft",
+        "Roblox",
+        "LittleBigPlanet"
+      ],
+      "correct": "Minecraft"
+    },
+    {
+      "question": "Dans Diablo, quel est le nom de la ville principale du premier jeu ?",
+      "answers": [
+        "Tristram",
+        "Caldeum",
+        "New Tristram",
+        "Westmarch"
+      ],
+      "correct": "Tristram"
+    },
+    {
+      "question": "Quel studio a créé Halo ?",
+      "answers": [
+        "343 Industries",
+        "Bungie",
+        "Microsoft Studios",
+        "Rare"
+      ],
+      "correct": "Bungie"
+    },
+    {
+      "question": "Dans Super Mario, quel est le nom du royaume gouverné par Peach ?",
+      "answers": [
+        "Royaume Champignon",
+        "Royaume de Mario",
+        "Mushroom Land",
+        "Princess Land"
+      ],
+      "correct": "Royaume Champignon"
+    },
+    {
+      "question": "Quel jeu de combat 2D est connu pour sa difficulté ?",
+      "answers": [
+        "Street Fighter",
+        "Tekken",
+        "Dark Souls",
+        "King of Fighters"
+      ],
+      "correct": "King of Fighters"
+    },
+    {
+      "question": "Dans Starcraft, quelle race est dirigée par la Reine des Lames ?",
+      "answers": [
+        "Protoss",
+        "Terran",
+        "Zerg",
+        "Hybrid"
+      ],
+      "correct": "Zerg"
+    },
+    {
+      "question": "Quel est le nom de la console portable de Nintendo sortie en 2004 ?",
+      "answers": [
+        "Game Boy Advance",
+        "Nintendo DS",
+        "3DS",
+        "Game Boy Color"
+      ],
+      "correct": "Nintendo DS"
+    },
+    {
+      "question": "Dans Battlefield, quel mode de jeu est le plus populaire ?",
+      "answers": [
+        "Team Deathmatch",
+        "Conquest",
+        "Rush",
+        "Domination"
+      ],
+      "correct": "Conquest"
+    },
+    {
+      "question": "Quel jeu de sport de combat utilise un ring octogonal ?",
+      "answers": [
+        "UFC",
+        "WWE",
+        "Boxing",
+        "Fight Night"
+      ],
+      "correct": "UFC"
+    },
+    {
+      "question": "Dans Fallout, dans quel type d'abri vit le joueur ?",
+      "answers": [
+        "Bunker",
+        "Vault",
+        "Shelter",
+        "Cave"
+      ],
+      "correct": "Vault"
+    },
+    {
+      "question": "Quel jeu de plateforme met en scène un bandicoot ?",
+      "answers": [
+        "Spyro",
+        "Crash Bandicoot",
+        "Ratchet & Clank",
+        "Jak and Daxter"
+      ],
+      "correct": "Crash Bandicoot"
+    },
+    {
+      "question": "Dans Call of Duty, quel sous-titre correspond au premier jeu moderne ?",
+      "answers": [
+        "Modern Warfare",
+        "Black Ops",
+        "World at War",
+        "Advanced Warfare"
+      ],
+      "correct": "Modern Warfare"
+    },
+    {
+      "question": "Quel jeu de rôle japonais met en scène Cloud Strife ?",
+      "answers": [
+        "Final Fantasy VI",
+        "Final Fantasy VII",
+        "Final Fantasy VIII",
+        "Final Fantasy IX"
+      ],
+      "correct": "Final Fantasy VII"
+    },
+    {
+      "question": "Dans Pac-Man, combien de fantômes y a-t-il ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": "4"
+    },
+    {
+      "question": "Quel jeu de tir à la première personne se déroule dans l'espace ?",
+      "answers": [
+        "Doom",
+        "Quake",
+        "Halo",
+        "Half-Life"
+      ],
+      "correct": "Halo"
+    },
+    {
+      "question": "Dans Street Fighter, quel pays représente Chun-Li ?",
+      "answers": [
+        "Japon",
+        "Chine",
+        "Corée",
+        "Thaïlande"
+      ],
+      "correct": "Chine"
+    },
+    {
+      "question": "Quel est le nom de la suite de Tetris la plus connue ?",
+      "answers": [
+        "Tetris 2",
+        "Tetris Effect",
+        "Tetris 99",
+        "Super Tetris"
+      ],
+      "correct": "Tetris Effect"
+    },
+    {
+      "question": "Dans God of War, qui est le père de Kratos ?",
+      "answers": [
+        "Zeus",
+        "Poséidon",
+        "Hadès",
+        "Arès"
+      ],
+      "correct": "Zeus"
+    },
+    {
+      "question": "Quel jeu de course automobile est développé par Polyphony Digital ?",
+      "answers": [
+        "Forza Motorsport",
+        "Gran Turismo",
+        "Need for Speed",
+        "Project Cars"
+      ],
+      "correct": "Gran Turismo"
+    },
+    {
+      "question": "Dans Mortal Kombat, comment s'appelle le tournoi ?",
+      "answers": [
+        "Mortal Kombat",
+        "Tournament of Champions",
+        "Fight to the Death",
+        "Ultimate Fighting"
+      ],
+      "correct": "Mortal Kombat"
+    },
+    {
+      "question": "Quel jeu de rôle occidental met en scène Geralt de Riv ?",
+      "answers": [
+        "The Elder Scrolls",
+        "Dragon Age",
+        "The Witcher",
+        "Mass Effect"
+      ],
+      "correct": "The Witcher"
+    },
+    {
+      "question": "Dans Super Mario Bros, combien de mondes y a-t-il ?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": "8"
+    },
+    {
+      "question": "Quel studio a développé Cyberpunk 2077 ?",
+      "answers": [
+        "Bethesda Game Studios",
+        "CD Projekt Red",
+        "Rockstar Games",
+        "Ubisoft"
+      ],
+      "correct": "CD Projekt Red"
+    },
+    {
+      "question": "Dans Dota 2, combien de joueurs y a-t-il par équipe ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": "5"
+    },
+    {
+      "question": "Quel jeu de combat met en scène des personnages de Nintendo ?",
+      "answers": [
+        "Tekken",
+        "Street Fighter",
+        "Super Smash Bros",
+        "King of Fighters"
+      ],
+      "correct": "Super Smash Bros"
+    },
+    {
+      "question": "Dans Sonic, quel est le nom de son ami à deux queues ?",
+      "answers": [
+        "Knuckles",
+        "Tails",
+        "Shadow",
+        "Silver"
+      ],
+      "correct": "Tails"
+    },
+    {
+      "question": "Quel jeu de simulation de ferme est très populaire ?",
+      "answers": [
+        "FarmVille",
+        "Harvest Moon",
+        "Stardew Valley",
+        "Farm Simulator"
+      ],
+      "correct": "Stardew Valley"
+    },
+    {
+      "question": "Dans Left 4 Dead, combien de survivants contrôle-t-on ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "4"
+    },
+    {
+      "question": "Quel est le nom de la monnaie dans World of Warcraft ?",
+      "answers": [
+        "Gold",
+        "Coins",
+        "Or",
+        "Credits"
+      ],
+      "correct": "Or"
+    },
+    {
+      "question": "Dans Guitar Hero, quel instrument simule-t-on ?",
+      "answers": [
+        "Batterie",
+        "Guitare",
+        "Basse",
+        "Piano"
+      ],
+      "correct": "Guitare"
+    },
+    {
+      "question": "Quel jeu de stratégie en temps réel met en scène des unités militaires modernes ?",
+      "answers": [
+        "Age of Empires",
+        "StarCraft",
+        "Command & Conquer",
+        "Civilization"
+      ],
+      "correct": "Command & Conquer"
+    },
+    {
+      "question": "Dans Bioshock, dans quelle ville sous-marine se déroule l'action ?",
+      "answers": [
+        "Atlantis",
+        "Rapture",
+        "Columbia",
+        "Minerva"
+      ],
+      "correct": "Rapture"
+    },
+    {
+      "question": "Quel jeu de course futuriste met en scène des vaisseaux anti-gravité ?",
+      "answers": [
+        "F-Zero",
+        "Wipeout",
+        "Redout",
+        "Fast RMX"
+      ],
+      "correct": "F-Zero"
+    },
+    {
+      "question": "Dans Dark Souls, comment appelle-t-on les points d'expérience ?",
+      "answers": [
+        "XP",
+        "Âmes",
+        "Points",
+        "Essence"
+      ],
+      "correct": "Âmes"
+    },
+    {
+      "question": "Quel jeu de survie se déroule sur une île peuplée de dinosaures ?",
+      "answers": [
+        "Rust",
+        "ARK: Survival Evolved",
+        "The Forest",
+        "Subnautica"
+      ],
+      "correct": "ARK: Survival Evolved"
+    },
+    {
+      "question": "Dans Mass Effect, comment s'appelle le commandant principal ?",
+      "answers": [
+        "Shepard",
+        "Anderson",
+        "Hackett",
+        "Udina"
+      ],
+      "correct": "Shepard"
+    },
+    {
+      "question": "Quel jeu de puzzle consiste à aligner des bonbons ?",
+      "answers": [
+        "Bejeweled",
+        "Candy Crush",
+        "Match-3",
+        "Puzzle Quest"
+      ],
+      "correct": "Candy Crush"
+    },
+    {
+      "question": "Dans Tekken, quel personnage porte un masque de jaguar ?",
+      "answers": [
+        "King",
+        "Armor King",
+        "Marduk",
+        "Jaycee"
+      ],
+      "correct": "King"
+    },
+    {
+      "question": "Quel jeu de tir tactique met en scène des agents spéciaux ?",
+      "answers": [
+        "Call of Duty",
+        "Rainbow Six Siege",
+        "Battlefield",
+        "Counter-Strike"
+      ],
+      "correct": "Rainbow Six Siege"
+    },
+    {
+      "question": "Dans Splinter Cell, quel est le nom de l'agent principal ?",
+      "answers": [
+        "Sam Fisher",
+        "Adam Jensen",
+        "Solid Snake",
+        "Agent 47"
+      ],
+      "correct": "Sam Fisher"
+    },
+    {
+      "question": "Quel jeu de sport simule le football américain ?",
+      "answers": [
+        "FIFA",
+        "PES",
+        "Madden NFL",
+        "NCAA Football"
+      ],
+      "correct": "Madden NFL"
+    },
+    {
+      "question": "Dans Hearthstone, sur quel univers se base le jeu ?",
+      "answers": [
+        "Warcraft",
+        "Diablo",
+        "StarCraft",
+        "Overwatch"
+      ],
+      "correct": "Warcraft"
+    },
+    {
+      "question": "Quel jeu de plateforme met en scène un dragon violet ?",
+      "answers": [
+        "Crash Bandicoot",
+        "Spyro",
+        "Ratchet & Clank",
+        "Banjo-Kazooie"
+      ],
+      "correct": "Spyro"
+    },
+    {
+      "question": "Dans Super Metroid, sur quelle planète se déroule l'action ?",
+      "answers": [
+        "Zebes",
+        "Tallon IV",
+        "Aether",
+        "SR388"
+      ],
+      "correct": "Zebes"
+    },
+    {
+      "question": "Quel jeu de rythme utilise des flèches de direction ?",
+      "answers": [
+        "Guitar Hero",
+        "Rock Band",
+        "Dance Dance Revolution",
+        "Beat Saber"
+      ],
+      "correct": "Dance Dance Revolution"
+    },
+    {
+      "question": "Dans Civilization, quel est l'objectif principal ?",
+      "answers": [
+        "Conquérir le monde",
+        "Développer une civilisation",
+        "Survivre",
+        "Explorer l'espace"
+      ],
+      "correct": "Développer une civilisation"
+    },
+    {
+      "question": "Quel jeu de course se déroule dans les rues de villes réelles ?",
+      "answers": [
+        "Gran Turismo",
+        "Forza Horizon",
+        "Need for Speed",
+        "The Crew"
+      ],
+      "correct": "Need for Speed"
+    },
+    {
+      "question": "Dans Dragon Ball FighterZ, combien de personnages peut-on contrôler simultanément ?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "Quel jeu de construction permet de créer des parcs d'attractions ?",
+      "answers": [
+        "SimCity",
+        "Cities: Skylines",
+        "RollerCoaster Tycoon",
+        "Planet Coaster"
+      ],
+      "correct": "RollerCoaster Tycoon"
+    },
+    {
+      "question": "Dans Monster Hunter, quel est l'objectif principal ?",
+      "answers": [
+        "Capturer des monstres",
+        "Chasser des monstres",
+        "Dompter des monstres",
+        "Élever des monstres"
+      ],
+      "correct": "Chasser des monstres"
+    },
+    {
+      "question": "Quel jeu de combat aérien se déroule pendant la Seconde Guerre mondiale ?",
+      "answers": [
+        "Ace Combat",
+        "War Thunder",
+        "IL-2 Sturmovik",
+        "Microsoft Flight Simulator"
+      ],
+      "correct": "IL-2 Sturmovik"
+    },
+    {
+      "question": "Dans Rocket League, quel sport simule-t-on avec des voitures ?",
+      "answers": [
+        "Basketball",
+        "Football",
+        "Hockey",
+        "Volleyball"
+      ],
+      "correct": "Football"
+    },
+    {
+      "question": "Quel jeu de tir à la troisième personne met en scène Marcus Fenix ?",
+      "answers": [
+        "Dead Space",
+        "Gears of War",
+        "Mass Effect",
+        "Lost Planet"
+      ],
+      "correct": "Gears of War"
+    },
+    {
+      "question": "Dans Persona, dans quel contexte évolue le joueur ?",
+      "answers": [
+        "École",
+        "Travail",
+        "Prison",
+        "Hôpital"
+      ],
+      "correct": "École"
+    },
+    {
+      "question": "Quel jeu de survie zombie se déroule dans une prison ?",
+      "answers": [
+        "Dead Rising",
+        "Left 4 Dead",
+        "The Walking Dead",
+        "Project Zomboid"
+      ],
+      "correct": "The Walking Dead"
+    },
+    {
+      "question": "Dans Bayonetta, quel type d'armes utilise l'héroïne ?",
+      "answers": [
+        "Épées",
+        "Pistolets",
+        "Magie",
+        "Fouets"
+      ],
+      "correct": "Pistolets"
+    },
+    {
+      "question": "Quel jeu de course permet de personnaliser entièrement sa voiture ?",
+      "answers": [
+        "Gran Turismo",
+        "Forza Motorsport",
+        "Need for Speed Heat",
+        "The Crew"
+      ],
+      "correct": "Need for Speed Heat"
+    },
+    {
+      "question": "Dans Apex Legends, combien de joueurs forment une équipe ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "Quel jeu de stratégie au tour par tour met en scène des aliens ?",
+      "answers": [
+        "XCOM",
+        "Civilization",
+        "Total War",
+        "Age of Wonders"
+      ],
+      "correct": "XCOM"
+    },
+    {
+      "question": "Dans Uncharted, quel est le nom du chasseur de trésor ?",
+      "answers": [
+        "Nathan Drake",
+        "Lara Croft",
+        "Indiana Jones",
+        "Sully"
+      ],
+      "correct": "Nathan Drake"
+    },
+    {
+      "question": "Quel jeu de simulation de vol est le plus réaliste ?",
+      "answers": [
+        "Ace Combat",
+        "Microsoft Flight Simulator",
+        "War Thunder",
+        "DCS World"
+      ],
+      "correct": "Microsoft Flight Simulator"
+    }
+]

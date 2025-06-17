@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="/public/css/quiz.css">
+</head>
+<body class="bodyQuiz">
+  <header class="logo-header">
+    <img src="../images/logo.png" alt="Logo BrainZone" class="logo-img">
+  </header>
+  <h1 class="h1quiz" id="quiz-title">Quiz</h1>
+
+  <div id="quiz-container">
+    <div class="question" id="question">Chargement de la question...</div>
+
+    <div class="answers" id="answers">
+      <!-- les reponses sont ici en JS (quizjs) -->
+    </div>
+
+    <button class="next-btn" id="next-btn" style="display: none;">Suivant</button>
+  </div>
+
+  <script src="../js/quiz.js"></script> 
+</body>
+</html>
